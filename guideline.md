@@ -1,0 +1,1 @@
+Writing prompts are a way to boost the creative writing process. They essentially work to give the authors some much needed inspiration, when creative imagination fails. This repository can aim to provide some interesting prompts to budding authors who need a dash of inspiration.
