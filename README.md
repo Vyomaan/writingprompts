@@ -1,1 +1,1 @@
-# writingprompts
+A repo housing writing prompts.
